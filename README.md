@@ -15,18 +15,19 @@ This project uses the JARVIS DFT 3D Dataset.
 
 optb88vdw_bandgap
 
-##Input Features
+## Input Features
 
--Density
--Formation Energy per Atom
--Energy Above Hull
--Number of Atoms (nat)
--Space Group Number
--Bulk Modulus
--Shear Modulus
--Average Atomic Number
--Average Electronegativity
--Electronegativity Difference
+- Density
+- Formation Energy per Atom
+- Energy Above Hull
+- Number of Atoms (nat)
+- Space Group Number
+- Bulk Modulus
+- Shear Modulus
+- Average Atomic Number
+- Average Electronegativity
+- Electronegativity Difference
+- Average Atomic Radius
 -Average Atomic Radius
 
 ## Machine Learning Model
@@ -43,5 +44,5 @@ Random Forest Regressor
 
 ## Future Work
 
--Compare Random Forest predictions with Quantum ESPRESSO calculations.
--Validate predictions using experimental band-gap values.
+- Compare Random Forest predictions with Quantum ESPRESSO calculations.
+- Validate predictions using experimental band-gap values.
