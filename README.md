@@ -11,9 +11,9 @@ The objective is to investigate how accurately a machine learning model can repr
 
 This project uses the JARVIS DFT 3D Dataset.
 
-##Target Property
+## Target Property
 
-optb88vdw_bandgap
+- optb88vdw_bandgap
 
 ## Input Features
 
@@ -32,7 +32,7 @@ optb88vdw_bandgap
 
 ## Machine Learning Model
 
-Random Forest Regressor
+- Random Forest Regressor
 
 ## Model Performance
 
