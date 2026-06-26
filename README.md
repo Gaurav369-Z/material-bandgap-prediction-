@@ -12,9 +12,11 @@ The objective is to investigate how accurately a machine learning model can repr
 This project uses the JARVIS DFT 3D Dataset.
 
 #Target Property
+
 optb88vdw_bandgap
 
 #Input Features
+
 Density
 Formation Energy per Atom
 Energy Above Hull
@@ -28,6 +30,7 @@ Electronegativity Difference
 Average Atomic Radius
 
 # Machine Learning Model
+
 Random Forest Regressor
 
 #Model Performance
@@ -37,5 +40,6 @@ R² Score                      0.7915
 Mean Absolute Error (MAE)     0.3256 eV
 
 # Future Work
+
 Compare Random Forest predictions with Quantum ESPRESSO calculations.
 Validate predictions using experimental band-gap values.
