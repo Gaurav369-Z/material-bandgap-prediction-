@@ -18,25 +18,15 @@ optb88vdw_bandgap
 #Input Features
 
 Density
-
 Formation Energy per Atom
-
 Energy Above Hull
-
 Number of Atoms (nat)
-
 Space Group Number
-
 Bulk Modulus
-
 Shear Modulus
-
 Average Atomic Number
-
 Average Electronegativity
-
 Electronegativity Difference
-
 Average Atomic Radius
 
 # Machine Learning Model
@@ -52,5 +42,4 @@ Mean Absolute Error (MAE)     0.3256 eV
 # Future Work
 
 Compare Random Forest predictions with Quantum ESPRESSO calculations.
-
 Validate predictions using experimental band-gap values.
