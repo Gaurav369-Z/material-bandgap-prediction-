@@ -3,10 +3,12 @@
 #Material Band Gap Prediction Using Machine Learning: Comparison with Quantum ESPRESSO and Experimental Data
 
 #Overview
+
 This project predicts electronic band gap of crystalline material using machine learning model, to trained model JARVIS DFT dataset is used. This project uses Random Forest regression model with engineered material descriptors such as density, formation energy, elastic properties, and atomic features, further machine learning predictions are compared with Density Functional Theory (DFT) calculations performed using Quantum ESPRESSO and also with experimental band-gap values.
 The objective is to investigate how accurately a machine learning model can reproduce DFT-calculated band gaps while significantly reducing computational cost.
 
 #Dataset
+
 This project uses the JARVIS DFT 3D Dataset.
 
 #Target Property
