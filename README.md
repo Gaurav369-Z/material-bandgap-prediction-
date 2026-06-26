@@ -35,7 +35,6 @@ optb88vdw_bandgap
 Random Forest Regressor
 
 ## Model Performance
-## Model Performance
 
 | Metric | Value |
 |--------|------:|
